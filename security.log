@@ -1,0 +1,8 @@
+[2025-11-05 22:40:24] INFO: Baseline successfully created/updated in hash_db.json.
+[2025-11-05 22:40:57] WARNING: Integrity check ran but no baseline exists.
+[2025-11-05 22:41:01] INFO: Baselined file: "test.txt"
+[2025-11-05 22:41:01] INFO: Baseline successfully created/updated in hash_db.json.
+[2025-11-05 22:41:04] INFO: File "test.txt" verified OK.
+[2025-11-05 22:41:26] INFO: File "test.txt" verified OK.
+[2025-11-05 22:41:57] INFO: File "test.txt" verified OK.
+[2025-11-05 22:42:17] WARNING: File "test.txt" integrity failed!
